@@ -12,9 +12,10 @@ function Skills() {
 						Skills &amp; Technologies
 					</h1>
 					<p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-						Lorem ipsum dolor sit amet consectetur, adipisicing
-						elit. Nisi sit ipsa delectus eum quo voluptas aspernatur
-						accusantium distinctio possimus est.
+						Since I like to learn new things, I've expended some
+						time researching and experiencing new techonologies over
+						the years. Here are some of the techonologies I like the
+						most and would like to work with.
 					</p>
 				</div>
 				<div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

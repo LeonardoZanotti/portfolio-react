@@ -1,19 +1,19 @@
 export const projects = [
 	{
-		title: "React Reserve",
+		title: "Be the Hero - Semana Omnistack 11",
 		subtitle: "MERN Stack",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
 		image: "/assets/project-1.gif",
-		link: "https://reactbootcamp.com",
+		link: "https://github.com/LeonardoZanotti/semanaomnistack11",
 	},
 	{
-		title: "React Tracks",
+		title: "José Samuel Produções",
 		subtitle: "React and Python",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
 		image: "/assets/project-2.gif",
-		link: "https://reactbootcamp.com",
+		link: "https://jose-samuel-producoes.vercel.app/",
 	},
 	{
 		title: "DevChat",
@@ -24,35 +24,37 @@ export const projects = [
 		link: "https://reactbootcamp.com",
 	},
 	{
-		title: "Epic Todo App",
+		title: "Ecoleta - Next Level Week",
 		subtitle: "React Hooks",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
 		image: "/assets/project-4.gif",
-		link: "https://reactbootcamp.com",
+		link: "https://github.com/LeonardoZanotti/next-level-week-1",
 	},
 ];
 
 export const testimonials = [
 	{
-		quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-		image: "https://randomuser.me/api/portraits/men/1.jpg",
-		name: "Jesse Hicks",
-		company: "Zoozle",
+		quote: "A very talented and competent programmer and problem solver, it was a pleasure working with Leonardo Zanotti.",
+		image: "/assets/edward.jpeg",
+		name: "Edward Teixeira Dias",
+		company: "Volvo group",
 	},
 	{
-		quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-		image: "https://randomuser.me/api/portraits/men/94.jpg",
-		name: "Ruben Alvarez",
-		company: "Dooble.io",
+		quote: "Leonardo has a high ability to work under pressure and communicate, in critical situations he remained calm and followed the expected plan, contacting his teammates if necessary.",
+		image: "/assets/luan.jpeg",
+		name: "Luan Santos",
+		company: "GrowinCo",
 	},
 ];
 
 export const skills = [
-	"JavaScript",
+	"HTML, CSS, JavaScript",
+	"Angular",
 	"React",
-	"Next.js",
 	"Node",
-	"GraphQL",
-	"Material UI",
+	"PHP (Laravel)",
+	"Ruby on Rails",
+	"Python",
+	"MySQL and MongoDB",
 ];
