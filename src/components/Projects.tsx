@@ -2,14 +2,15 @@ import React from "react";
 import { CodeBracketIcon } from "@heroicons/react/24/solid";
 import { projects } from "../data";
 
-import image1 from "../assets/project-1.gif";
-import image2 from "../assets/project-2.gif";
-import image3 from "../assets/project-3.gif";
-import image4 from "../assets/project-4.gif";
+// import image1 from "../assets/project-1.gif";
+// import image2 from "../assets/project-2.gif";
+// import image3 from "../assets/project-3.gif";
+// import image4 from "../assets/project-4.gif";
 
-const projectImages = [image1, image2, image3, image4];
+// const projectImages = [image1, image2, image3, image4];
 
 function Projects() {
+	console.log(projects);
 	return (
 		<section id="projects" className="text-gray-400 bg-gray-900 body-font">
 			<div className="container px-5 py-10 mx-auto text-center lg:px-40">
@@ -35,7 +36,7 @@ function Projects() {
 								<img
 									alt="gallery"
 									className="absolute inset-0 w-full h-full object-cover object-center"
-									src={projectImages[i]}
+									src={project.image}
 								/>
 								<div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
 									<h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">

@@ -1,5 +1,5 @@
 import React from "react";
-import codingSvg from "../assets/coding.svg";
+import codingSvg from "/assets/coding.svg";
 
 function About() {
 	return (
