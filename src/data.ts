@@ -1,35 +1,59 @@
 export const projects = [
 	{
 		title: "Be the Hero - Semana Omnistack 11",
-		subtitle: "MERN Stack",
+		subtitle: "React, React Native and Node",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+			"Application that connects Non-Governmental Organizations with people interested in helping with the companies daily tasks.",
 		image: "/assets/project-1.gif",
 		link: "https://github.com/LeonardoZanotti/semanaomnistack11",
 	},
 	{
 		title: "José Samuel Produções",
-		subtitle: "React and Python",
+		subtitle: "HTML, CSS, JavaScript",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "/assets/project-2.gif",
+			"Website of José Samuel, describing his ideas and projects.",
+		image: "/assets/jose.png",
 		link: "https://jose-samuel-producoes.vercel.app/",
 	},
 	{
-		title: "DevChat",
-		subtitle: "React and Firebase",
+		title: "Tour of Heroes",
+		subtitle: "Angular",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "/assets/project-3.gif",
-		link: "https://reactbootcamp.com",
+			"Very basic and simple Angular project, but that grabs all the main points of the language.",
+		image: "/assets/tour-of-heroes.png",
+		link: "https://tour-of-heroes-bice.vercel.app/",
 	},
 	{
 		title: "Ecoleta - Next Level Week",
-		subtitle: "React Hooks",
+		subtitle: "React, React Native and Node.js",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+			"A fun project with the aim of showing garbage collection points spread across the city, allowing users to navigate and insert new points.",
 		image: "/assets/project-4.gif",
 		link: "https://github.com/LeonardoZanotti/next-level-week-1",
+	},
+	{
+		title: "Mapas Culturais",
+		subtitle: "PHP",
+		description:
+			"I worked on this project for around 4 months with a team of brilliant developers from Brazil, in partnership with the Federal University of Paraná and the Government of Culture.",
+		image: "/assets/mapas.png",
+		link: "https://mapacultural.secult.ce.gov.br/",
+	},
+	{
+		title: "Simple blog",
+		subtitle: "React and Ruby on Rails",
+		description:
+			"This is a very simple blog made with React and Ruby on Rails to learn the basic functions of CRUD of both technologies.",
+		image: "/assets/rails-react-blog.png",
+		link: "https://github.com/LeonardoZanotti/rails-react-blog",
+	},
+	{
+		title: "Google Glass blog",
+		subtitle: "HTML, CSS, and JavaScript",
+		description:
+			"This is my very first website, built from an youtube tutorial when I was only 11 years old, so it's REALLY old. Nice to remember where everything started!",
+		image: "/assets/google-glass.png",
+		link: "https://googleglass2020.netlify.app/",
 	},
 ];
 

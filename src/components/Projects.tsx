@@ -22,7 +22,8 @@ function Projects() {
 					<p className="lg:w-2/3 mx-auto leading-relaxed text-base">
 						Examine my developed apps: showcasing technical
 						proficiency and practicality. All of them were built for
-						fun of learning something new!
+						fun of learning something new! Here are some examples of
+						what I'm capable of:
 					</p>
 				</div>
 				<div className="flex flex-wrap -m-4">
