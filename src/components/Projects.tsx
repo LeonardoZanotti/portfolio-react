@@ -1,13 +1,5 @@
-import React from "react";
 import { CodeBracketIcon } from "@heroicons/react/24/solid";
 import { projects } from "../data";
-
-// import image1 from "../assets/project-1.gif";
-// import image2 from "../assets/project-2.gif";
-// import image3 from "../assets/project-3.gif";
-// import image4 from "../assets/project-4.gif";
-
-// const projectImages = [image1, image2, image3, image4];
 
 function Projects() {
 	console.log(projects);
@@ -27,7 +19,7 @@ function Projects() {
 					</p>
 				</div>
 				<div className="flex flex-wrap -m-4">
-					{projects.map((project, i) => (
+					{projects.map((project) => (
 						<a
 							href={project.link}
 							key={project.image}

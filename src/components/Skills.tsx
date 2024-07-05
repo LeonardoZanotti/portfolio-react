@@ -1,4 +1,3 @@
-import React from "react";
 import { CheckBadgeIcon, CpuChipIcon } from "@heroicons/react/24/solid";
 import { skills } from "../data";
 

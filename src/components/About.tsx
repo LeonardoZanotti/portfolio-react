@@ -1,4 +1,3 @@
-import React from "react";
 import codingSvg from "/assets/coding.svg";
 
 function About() {
