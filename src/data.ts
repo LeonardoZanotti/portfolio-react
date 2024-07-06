@@ -3,7 +3,7 @@ export const projects = [
 		title: "Be the Hero - Semana Omnistack 11",
 		subtitle: "React, React Native and Node",
 		description:
-			"Application that connects Non-Governmental Organizations with people interested in helping with the companies daily tasks.",
+			"Application that connects Non-Governmental Organizations with people interested in volunteering to help with the companies daily tasks.",
 		image: "/assets/project-1.gif",
 		link: "https://github.com/LeonardoZanotti/semanaomnistack11",
 	},
@@ -11,7 +11,7 @@ export const projects = [
 		title: "José Samuel Produções",
 		subtitle: "HTML, CSS, JavaScript",
 		description:
-			"Website of José Samuel, describing his ideas and projects.",
+			"Website of José Samuel, describing his ideas and projects. It was an ideia from a friend, to build a website simulating a company where we were the CEO's.",
 		image: "/assets/jose.png",
 		link: "https://jose-samuel-producoes.vercel.app/",
 	},
@@ -19,7 +19,7 @@ export const projects = [
 		title: "Tour of Heroes",
 		subtitle: "Angular",
 		description:
-			"Very basic and simple Angular project, but that grabs all the main points of the language.",
+			"Very basic and simple Angular project, that lists a dataset of heroes and it's super powers, with a log of all the actions performed. Grabs the key points of Angular",
 		image: "/assets/tour-of-heroes.png",
 		link: "https://tour-of-heroes-bice.vercel.app/",
 	},
@@ -27,7 +27,7 @@ export const projects = [
 		title: "Ecoleta - Next Level Week",
 		subtitle: "React, React Native and Node.js",
 		description:
-			"A fun project with the aim of showing garbage collection points spread across the city, allowing users to navigate and insert new points.",
+			"A fun project with the aim of showing garbage collection points spread across the city, allowing users to navigate and insert new points. You can search for local points with the mobile application.",
 		image: "/assets/project-4.gif",
 		link: "https://github.com/LeonardoZanotti/next-level-week-1",
 	},
@@ -43,7 +43,7 @@ export const projects = [
 		title: "Simple blog",
 		subtitle: "React and Ruby on Rails",
 		description:
-			"This is a very simple blog made with React and Ruby on Rails to learn the basic functions of CRUD of both technologies.",
+			"This is a very simple blog made with React and Ruby on Rails to learn the basic functions of CRUD of both technologies. It is possible to Create, View, Update and Delete posts.",
 		image: "/assets/rails-react-blog.png",
 		link: "https://github.com/LeonardoZanotti/rails-react-blog",
 	},
