@@ -73,12 +73,14 @@ export const testimonials = [
 ];
 
 export const skills = [
-	"HTML, CSS, JavaScript",
 	"Angular",
 	"React",
-	"Node",
-	"PHP (Laravel)",
+	"Vue.js",
+	"Node.js",
+	"Nest.js",
+	"Laravel",
 	"Ruby on Rails",
 	"Python",
+	"C#",
 	"MySQL and MongoDB",
 ];
