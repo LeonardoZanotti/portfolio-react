@@ -76,7 +76,6 @@ export const skills = [
 	"Angular",
 	"React",
 	"Vue.js",
-	"Ionic",
 	"Node.js",
 	"Nest.js",
 	"PHP (Laravel)",
